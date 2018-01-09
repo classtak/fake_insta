@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# figaro
+gem 'figaro'
+
 # 회원 권한 기능
 gem 'cancancan', '~> 2.0'
 
